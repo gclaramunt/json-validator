@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS JSON_SCHEMA ( schema_id VARCHAR, schema_definition VARCHAR );
